@@ -77,8 +77,9 @@ th, td {
 }
 
 /* --------------------
-    トピックのタイトル
+    画像
 -------------------- */
-.tpic-title {
-        font_weight: bold;       
+img {
+   weight:50px;
+   height:auto;
 }
